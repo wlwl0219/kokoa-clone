@@ -20,3 +20,9 @@
   left: 15px;
   bottom: 15px;
 }
+
+.nav__notification-small {
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+}

@@ -15,3 +15,13 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+
+.notification {
+  position: relative;
+}
+
+.notification__small {
+  position: absolute;
+  left: 22px;
+  bottom: 22px;
+}
