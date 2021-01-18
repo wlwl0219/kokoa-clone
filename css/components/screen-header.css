@@ -25,3 +25,9 @@
   left: 22px;
   bottom: 22px;
 }
+
+.notification__sm {
+  position: absolute;
+  left: 50px;
+  bottom: 70px;
+}
